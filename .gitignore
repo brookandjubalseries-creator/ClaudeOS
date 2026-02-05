@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+*.o
+*.bin
+*.iso
+
+# Editor files
+*.swp
+*~
+.vscode/
